@@ -1,0 +1,5 @@
+Audio and video can be linkup by <audio control> <source src="assets/media/audio1.mp3" type="audio/mp3"> & <video control> <source src="assets/media/Allah Hoo Allah Hoo (Muhammad Owais Raza Qadri).mp4" type="video/mp4"> tag without these using <object data="assets/media/Documentation (2).pdf" type="" height="400" width="850"></object> we can linkup pdf,audio,video and images also.
+
+A few browsers does not accept <object data=""> they accept <embed src="">. <embed> tag has no closing tag.
+
+Using <iframe src="">tag we can linkup pdf, audio, video, image, google map, youtube, etc; it has closing tag </iframe> also. This is responsive to mobile also.
